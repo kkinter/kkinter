@@ -1,11 +1,11 @@
 
 
 # 💡kkinter
-
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 
 ## ✔️ Skills
 
-<right class="half">
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" width="130"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" width="200"/>
+<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkinter&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=kkinter&show_icons=true">
