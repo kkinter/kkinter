@@ -4,6 +4,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkinter&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=kkinter&show_icons=true">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkinter&langs_count=10&layout=compact&theme=dark)] (https://github.com/kkinter)
 </div>
 
 ## ✔️ Skills
