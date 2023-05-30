@@ -1,12 +1,7 @@
 
-
 # 💡kkinter
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkinter&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kkinter&show_icons=true">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkinter&langs_count=10&layout=compact&theme=dark)] (https://github.com/kkinter)
-</div>
-
+[![kkinter's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkinter&theme=dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkinter&langs_count=8&layout=compact&theme=dark)]()
 ## ✔️ Skills
 
 <div style="display: flex; justify-content: center;" align="center">
